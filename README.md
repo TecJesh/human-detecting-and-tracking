@@ -1,1 +1,1 @@
-# human-detecting-and-tracking
+# human-detecting-and-tracking demo
